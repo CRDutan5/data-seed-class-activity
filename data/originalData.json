@@ -1,3 +1,134 @@
 {
- 
+  "cellphones": [
+    {
+      "id": "af29e1",
+      "image": "https://res.cloudinary.com/drlnh7yxm/image/upload/v1706203902/cellphones/SM-G996BZKDEUA_wmspu1.webp",
+      "features": ["4G LTE", "5G Connectivity", "Dual SIM"],
+      "specs": {
+        "brand": "Samsung",
+        "model": "Galaxy S21",
+        "color": "Phantom Black",
+        "display_size": "6.2 inches",
+        "storage": "128GB"
+      },
+      "price": "$799"
+    },
+    {
+      "id": "d4c8b7",
+      "image": "https://res.cloudinary.com/drlnh7yxm/image/upload/v1706204087/cellphones/61eDXs9QFNL._AC_UF894_1000_QL80__sfj7vi.jpg",
+      "features": ["5G Connectivity", "Triple Camera Setup"],
+      "specs": {
+        "brand": "Apple",
+        "model": "iPhone 13 Pro",
+        "color": "Graphite",
+        "display_size": "6.1 inches",
+        "storage": "256GB"
+      },
+      "price": "$999"
+    },
+    {
+      "id": "8e6a21",
+      "image": "https://res.cloudinary.com/drlnh7yxm/image/upload/v1706204131/cellphones/61fy_u9uqPL_anjra1.jpg",
+      "features": ["4G LTE", "Quad Camera System"],
+      "specs": {
+        "brand": "OnePlus",
+        "model": "OnePlus 9",
+        "color": "Arctic Sky",
+        "display_size": "6.55 inches",
+        "storage": "128GB"
+      },
+      "price": "$729"
+    },
+    {
+      "id": "1b9f3d",
+      "image": "https://res.cloudinary.com/drlnh7yxm/image/upload/v1706204158/cellphones/6483974_sd_kygvzl.jpg",
+      "features": ["5G Connectivity", "Ultra-wide Camera"],
+      "specs": {
+        "brand": "Google",
+        "model": "Pixel 6",
+        "color": "Stormy Black",
+        "display_size": "6.4 inches",
+        "storage": "128GB"
+      },
+      "price": "$699"
+    },
+    {
+      "id": "73d8c4",
+      "image": "https://res.cloudinary.com/drlnh7yxm/image/upload/v1706204183/cellphones/xiaomi-mi11_xhu5cl.jpg",
+      "features": ["4G LTE", "Triple Camera Setup"],
+      "specs": {
+        "brand": "Xiaomi",
+        "model": "Mi 11",
+        "color": "Horizon Blue",
+        "display_size": "6.81 inches",
+        "storage": "256GB"
+      },
+      "price": "$749"
+    },
+    {
+      "id": "5a7ed2",
+      "image": "https://res.cloudinary.com/drlnh7yxm/image/upload/v1706204210/cellphones/611v9lKNlaL._AC_UF894_1000_QL80__nyrcpf.jpg",
+      "features": ["5G Connectivity", "Quad HD+ Display"],
+      "specs": {
+        "brand": "Sony",
+        "model": "Xperia 1 III",
+        "color": "Frosted Purple",
+        "display_size": "6.5 inches",
+        "storage": "256GB"
+      },
+      "price": "$1099"
+    },
+    {
+      "id": "f32eab",
+      "image": "https://res.cloudinary.com/drlnh7yxm/image/upload/v1706204237/cellphones/p40-pro-silver_kcep55.png",
+      "features": ["5G Connectivity", "Dual SIM"],
+      "specs": {
+        "brand": "Huawei",
+        "model": "P40 Pro",
+        "color": "Silver Frost",
+        "display_size": "6.58 inches",
+        "storage": "256GB"
+      },
+      "price": "$899"
+    },
+    {
+      "id": "c96b81",
+      "image": "https://res.cloudinary.com/drlnh7yxm/image/upload/v1706204264/cellphones/4_zu_3_realme_8_PRo_hwnaek.jpg",
+      "features": ["4G LTE", "Triple Camera Setup"],
+      "specs": {
+        "brand": "Realme",
+        "model": "Realme 8 Pro",
+        "color": "Infinite Blue",
+        "display_size": "6.4 inches",
+        "storage": "128GB"
+      },
+      "price": "$349"
+    },
+    {
+      "id": "7d9c34",
+      "image": "https://res.cloudinary.com/drlnh7yxm/image/upload/v1706204294/cellphones/6463049cv1d_sbvx8b.jpg",
+      "features": ["5G Connectivity", "Quad Camera System"],
+      "specs": {
+        "brand": "Motorola",
+        "model": "Moto G Stylus 5G",
+        "color": "Cosmic Emerald",
+        "display_size": "6.8 inches",
+        "storage": "256GB"
+      },
+      "price": "$399"
+    },
+    {
+      "id": "a2f8c6",
+      "image": "https://res.cloudinary.com/drlnh7yxm/image/upload/v1706204327/cellphones/OppoReno6Pro5Gblu9_c95ruz.jpg",
+      "features": ["4G LTE", "Triple Camera Setup"],
+      "specs": {
+        "brand": "Oppo",
+        "model": "Oppo Reno 6 Pro",
+        "color": "Aurora",
+        "display_size": "6.55 inches",
+        "storage": "256GB"
+      },
+      "price": "$649"
+    }
+  ]
 }
